@@ -12,3 +12,11 @@ var Bangla  = 60.100;
 var total = (Mathematics + Biology + Chemistry + Physics + Bangla);
 var average = (total/5);
 console.log (average.toFixed(2));
+
+let mymoney = 119;
+let remainder = mymoney % 5; 
+console.log(remainder);
+
+
+var a = isNaN('2-10');
+console.log(a);
